@@ -7,7 +7,7 @@ const Work = () => {
     return (
         <div className='bg-black max-w-[1200px] mx-auto p-5' id='work'>
             <div className='pb-8 text-left'>
-                <p className='text-3xl mb-4 font-bold primary-color'>Work</p>
+                <p className='text-3xl mb-4 font-bold primary-color'>Works</p>
                 <p className='text-gray-400'>Check out some of my recent works</p>
             </div>
 
